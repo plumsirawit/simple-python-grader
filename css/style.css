@@ -1,0 +1,22 @@
+.box{
+    background-color: white;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12), 0 10px 20px rgba(0, 0, 0, 0.24);
+    padding: 10px 20px 0px 20px;
+    margin: 0px;
+    border-radius: 5px;
+    border: none;
+}
+.mainbox{
+    width: 30%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.logattr{
+    font-size: 24pt;
+}
+.fillh{
+    width: 100%;
+}
